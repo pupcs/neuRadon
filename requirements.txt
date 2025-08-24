@@ -1,8 +1,7 @@
 pip
-tensorflow==2.15
+tensorflow==2.17.1
 numpy
 matplotlib
 imageio
 imageio-ffmpeg
 configargparse
-imagemagick
