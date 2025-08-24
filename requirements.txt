@@ -1,0 +1,8 @@
+pip
+tensorflow==2.15
+numpy
+matplotlib
+imageio
+imageio-ffmpeg
+configargparse
+imagemagick
